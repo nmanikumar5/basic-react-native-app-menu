@@ -4,6 +4,6 @@ Here is a simple example of a custom Drawer using **React Navigation** for React
 
 Don't forget to install packages using `npm install`.
 
-ManiKumar 😎
+ManiKumar 😎 
 
 ![Drawer](https://img15.hostingpics.net/pics/910292drawer.gif)
